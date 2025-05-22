@@ -1,10 +1,6 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/3079/3079165.png" width="40"> University Student Mentoring Platform
 
-<div align="center">
-  <img src="./login_page.jpg" width="30%" alt="Login Page">
-  <img src="./std_dashboard.jpg" width="30%" alt="Student Dashboard"> 
-  <img src="./mentor_dashboard.jpg" width="30%" alt="Mentor Dashboard">
-</div>
+![Log in page](./login_.jpg)
 
 ## 🌱 Overview
 **Cultivating Growth: A Collaborative Journey Beyond the Classroom** is a comprehensive mentoring platform designed to facilitate connections between students, mentors, and parents through dedicated dashboards.
@@ -18,13 +14,13 @@
 
 ### 📊 Intelligent Dashboards
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20"> Mentor Portal
+#### Mentor Portal
 - Mentee group management
 - Session scheduling
 - Performance analytics
 - Feedback system
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/3132/3132697.png" width="20"> Student Portal
+#### Student Portal
 - Mentor communication
 - Resource library
 - Progress tracking
