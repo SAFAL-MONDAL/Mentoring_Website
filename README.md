@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/3079/3079165.png" width="40"> University Student Mentoring Platform
+<div align="center"> University Student Mentoring Platform </div>
 
 <div align="center">
   <img src="./login_page.jpg" width="30%" alt="Login Page">
