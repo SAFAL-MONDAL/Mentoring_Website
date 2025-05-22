@@ -16,11 +16,6 @@
 
 ### Dashboards
 
-#### Parent Dashboard
-- View student progress and mentor feedback
-- Receive notifications about mentoring sessions
-- Communicate with mentors
-
 #### Mentor Dashboard
 - Manage mentee groups
 - Schedule and track mentoring sessions
