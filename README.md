@@ -18,13 +18,13 @@
 
 ### 📊 Intelligent Dashboards
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="20"> Mentor Portal
+#### <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20"> Mentor Portal
 - Mentee group management
 - Session scheduling
 - Performance analytics
 - Feedback system
 
-#### <img src="https://cdn-icons-png.flaticon.com/512/3132/3132764.png" width="20"> Student Portal
+#### <img src="https://cdn-icons-png.flaticon.com/512/3132/3132697.png" width="20"> Student Portal
 - Mentor communication
 - Resource library
 - Progress tracking
