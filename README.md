@@ -1,6 +1,10 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/3079/3079165.png" width="40"> University Student Mentoring Platform
 
-![Log in page](./login_page .jpg)
+<div align="center">
+  <img src="./login_page.jpg" width="30%" alt="Login Page">
+  <img src="./std_dashboard.jpg" width="30%" alt="Student Dashboard"> 
+  <img src="./mentor_dashboard.jpg" width="30%" alt="Mentor Dashboard">
+</div>
 
 ## 🌱 Overview
 **Cultivating Growth: A Collaborative Journey Beyond the Classroom** is a comprehensive mentoring platform designed to facilitate connections between students, mentors, and parents through dedicated dashboards.
