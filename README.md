@@ -1,6 +1,6 @@
 # University Student Mentoring Platform
 
-![Mentoring Platform Login page](./log in page.jpg)
+![Mentoring Platform Login page](./login_page.jpg)
 ![Student Dashboard](./image.png)
 ![Mentor Dashboard](./image.png)
 
