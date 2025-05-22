@@ -1,61 +1,64 @@
-# University Student Mentoring Platform
+# <img src="https://cdn-icons-png.flaticon.com/512/3079/3079165.png" width="40"> University Student Mentoring Platform
 
-![Mentoring Platform Login page](./login_page.jpg)
-![Student Dashboard](./std_dashboard.jpg)
-![Mentor Dashboard](./mentor_dashboard.jpg)
+<div align="center">
+  <img src="./login_page.jpg" width="30%" alt="Login Page">
+  <img src="./std_dashboard.jpg" width="30%" alt="Student Dashboard"> 
+  <img src="./mentor_dashboard.jpg" width="30%" alt="Mentor Dashboard">
+</div>
 
-## Overview
-**Cultivating Growth: A Collaborative Journey Beyond the Classroom** is a comprehensive mentoring platform designed for universities to facilitate connections between students, mentors, and parents. This web application provides dedicated dashboards for each user type with appropriate functionality to support the mentoring process.
+## 🌱 Overview
+**Cultivating Growth: A Collaborative Journey Beyond the Classroom** is a comprehensive mentoring platform designed to facilitate connections between students, mentors, and parents through dedicated dashboards.
 
-## Features
+## ✨ Key Features
 
-### User Authentication
-- Secure login system for all user types
-- Role-based access control (Student, Mentor, Parent)
-- Password protection and session management
+### 🔒 Secure Authentication
+- Role-based access control 
+- Encrypted password protection
+- Session management
 
-### Dashboards
+### 📊 Intelligent Dashboards
 
-#### Mentor Dashboard
-- Manage mentee groups
-- Schedule and track mentoring sessions
-- Provide feedback and assessments
-- Access student performance data
+#### <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="20"> Mentor Portal
+- Mentee group management
+- Session scheduling
+- Performance analytics
+- Feedback system
 
-#### Student Dashboard
-- View assigned mentor and schedule meetings
-- Access mentoring resources and materials
-- Track personal growth and goals
-- Submit assignments or reflections
+#### <img src="https://cdn-icons-png.flaticon.com/512/3132/3132764.png" width="20"> Student Portal
+- Mentor communication
+- Resource library
+- Progress tracking
+- Assignment submission
 
-## Technology Stack
+## 🛠 Technology Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive design for all device types
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</div>
 
-### Backend
-- Node.js runtime environment
-- Express.js web application framework
-- RESTful API architecture
-
-### Database
-- MongoDB (NoSQL database)
-- Mongoose ODM for data modeling
-
-### Deployment
-- Hosted on Vercel: [https://mentoring-website-edu.vercel.app/](https://mentoring-website-edu.vercel.app/)
-
-## Installation & Setup
+## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js (v14 or later)
-- MongoDB Atlas account or local MongoDB installation
-- Git for version control
+- Node.js v14+
+- MongoDB (Atlas or local)
+- Git
 
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone [repository-url]
+### Installation
+
+# Clone repository
+git clone [https://github.com/SAFAL-MONDAL/Mentoring_Website]
+
+# Install dependencies
+npm install
+
+# Configure environment
+cp .env.example .env
+
+# Start development server
+npm run dev
