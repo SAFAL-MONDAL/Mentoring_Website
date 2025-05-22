@@ -1,4 +1,4 @@
-<div align="center"> University Student Mentoring Platform </div>
+<div align="center"> <b>University Student Mentoring Platform</b>  </div>
 
 <div align="center">
   <img src="./login_page.jpg" width="30%" alt="Login Page">
