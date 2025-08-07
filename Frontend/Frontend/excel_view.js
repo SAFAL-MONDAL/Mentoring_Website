@@ -1,7 +1,7 @@
 // excel_view.js - Student page for viewing mentor details
 
 
-const BASE_URL = 'https://mentoring-website.onrender.com/'
+const BASE_URL = 'https://mentoring-website.onrender.com'
 
 async function searchData() {
     const searchInput = document.getElementById('searchInput').value.trim();

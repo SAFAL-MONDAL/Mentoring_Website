@@ -1,6 +1,6 @@
 // excel_upload.js - Admin page for uploading excel file
 
-const BASE_URL = 'https://mentoring-website.onrender.com/'
+const BASE_URL = 'https://mentoring-website.onrender.com'
 
 document.addEventListener('DOMContentLoaded', async function() {
     // Load existing data when page loads
