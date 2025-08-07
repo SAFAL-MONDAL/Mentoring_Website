@@ -1,4 +1,4 @@
-const BASE_URL = 'https://mentoring-website.onrender.com/api'
+const BASE_URL = 'https://mentoring-website.onrender.com/'
 
 document.addEventListener('DOMContentLoaded', function() {
   const form = document.getElementById('queryForm');
