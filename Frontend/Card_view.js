@@ -1,4 +1,4 @@
-const BASE_URL = 'https://mentoring-website.onrender.com/'
+const BASE_URL = 'https://mentoring-website.onrender.com'
 
 document.addEventListener("DOMContentLoaded", function() {
     const reportList = document.getElementById('report-list');
