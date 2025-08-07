@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 nginx.conf
 node_modules
 package-lock.json
 package.json
 README.md
 .dockerignore
+=======
+node_modules
+dist
+package-lock.json
+yarn.lock
+.DS_Store
+.env
+.dockerignore
+docker-compose.override.yml
+docker-compose.override.dev.yml 
+>>>>>>> 163442f1c7e53e6bc71fe0938442d2f2c0ac182b
