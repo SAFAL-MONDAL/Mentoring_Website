@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
     nameField.parentNode.insertBefore(semesterDropdown, nameField.nextSibling);
 });
 
-const BASE_URL = 'http://bd-lb-1306888275.ap-south-1.elb.amazonaws.com'
+const BASE_URL = 'https://mentoring-website.onrender.com/'
 
 document.getElementById('report-form').addEventListener('submit', async function(e) {
     e.preventDefault();

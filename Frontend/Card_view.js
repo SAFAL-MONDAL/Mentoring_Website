@@ -1,4 +1,4 @@
-const BASE_URL = 'http://bd-lb-1306888275.ap-south-1.elb.amazonaws.com'
+const BASE_URL = 'https://mentoring-website.onrender.com/'
 
 document.addEventListener("DOMContentLoaded", function() {
     const reportList = document.getElementById('report-list');
